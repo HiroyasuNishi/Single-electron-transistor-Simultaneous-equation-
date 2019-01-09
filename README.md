@@ -1,8 +1,8 @@
 # Single-electron-transistor-Simultaneous-equation-
-# ナノ科学第３回レポート
+#ナノ科学第３回レポート
 import sympy
 
-# q1, q2, qg, n, e, C1, C2, Cg, V, Vg = sympy.symbols(['q1', 'q2', 'qg', 'n', 'e', 'C1', 'C2', 'Cg', 'V', 'Vg'])　これでもできる
+#q1, q2, qg, n, e, C1, C2, Cg, V, Vg = sympy.symbols(['q1', 'q2', 'qg', 'n', 'e', 'C1', 'C2', 'Cg', 'V', 'Vg'])　これでもできる
 q1, q2, qg, n, e, C1, C2, Cg, V, Vg = sympy.symbols('q1 q2 qg n e C1 C2 Cg V Vg')
 sympy.init_printing()
 
